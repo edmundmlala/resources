@@ -28,6 +28,8 @@ Route::get('/homework/{id}', [PagesController::class, 'homework'])->name("homewo
 Route::get('/syllabus/{id}', [PagesController::class, 'syllabus'])->name("syllabus");
 Route::get('/outline/{id}', [PagesController::class, 'outline'])->name("outline");
 Route::get('/books/{id}', [PagesController::class, 'books'])->name("books");
+Route::get('/cambridgeHigh', [PagesController::class, 'cambridgeHigh']);
+Route::get('/cambridgePrimary', [PagesController::class, 'cambridgePrimary']);
 
 Auth::routes();
 

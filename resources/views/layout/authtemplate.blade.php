@@ -49,7 +49,14 @@
         </ul>
         <ul class="nav navbar-nav navbar-right">
           {{-- <li><a href="/login/"><span class="fa fa-user"></span> Login</a></li> --}}
-          <li><a href="/login/"><span class="fa fa-user"></span> Login</a></li>
+              
+        
+          <li><a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('frm-logout').submit();"> <span class="fa fa-child "></span>
+            Logout
+        </a>
+        <form id="frm-logout" action="{{ route('logout') }}" method="POST" style="display: none;">
+          {{ csrf_field() }}
+      </form></li>
         </ul>
       </div>
     </div>
