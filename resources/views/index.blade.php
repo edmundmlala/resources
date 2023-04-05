@@ -28,46 +28,86 @@
 @endsection()
 
 @section('main_sec')
-	<div class="main_sec"> 
-      <div class="container-fluid bg-3 text-center">    
-        <h3>Grade 1 Study Materials</h3><br>
+	<div class="main_sec" id="indexPage"> 
+      <div class="container bg-3 text-center">    
+        <h3 style="color:rgba(3, 3, 47, 0.837); font-weight:bold">Taal-Net Group Of Schools E-library</h3><br>
         <div class="row">
-          <div class="col-sm-3">
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary">
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Uniforms & Stationary</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3"> 
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary"> 
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Order Books Online</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3"> 
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary"> 
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Banking Details</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary">
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Contact Details</p>
+              </a>
+            </div>
           </div>
         </div>
       </div><br>
 
-      <div class="container-fluid bg-3 text-center">    
+      <div class="container bg-3 text-center">    
         <div class="row">
-          <div class="col-sm-3">
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary">
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Cambridge Pathway</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3"> 
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary"> 
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>June 2023 exam series</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3"> 
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary"> 
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Cambridge Primary</p>
+              </a>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <p>Some text..</p>
-            <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+          <div class="col-sm-3 ">
+            <div class="card card-primary">
+              <a href="#">
+                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+                <hr >
+                <p>Cambridge Lower Secondary</p>
+              </a>
+            </div>
           </div>
         </div>
       </div><br><br>

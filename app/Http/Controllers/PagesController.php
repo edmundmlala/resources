@@ -28,6 +28,16 @@ class PagesController extends Controller
             "id"=> $id
         ]);
     }
+    
+    public function cambridgeHigh()
+    {
+        return view('cambridgeHigh');
+    }
+    
+    public function cambridgePrimary()
+    {
+        return view('cambridgePrimary');
+    }
 
     public function outline($id)
     {
