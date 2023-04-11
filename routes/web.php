@@ -30,6 +30,8 @@ Route::get('/outline/{id}', [PagesController::class, 'outline'])->name("outline"
 Route::get('/books/{id}', [PagesController::class, 'books'])->name("books");
 Route::get('/cambridgeHigh', [PagesController::class, 'cambridgeHigh']);
 Route::get('/cambridgePrimary', [PagesController::class, 'cambridgePrimary']);
+Route::get('/cambridgePathway', [PagesController::class, 'cambridgePathway']);
+Route::get('/juneExams', [PagesController::class, 'exams']);
 
 Auth::routes();
 

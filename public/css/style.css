@@ -1,5 +1,6 @@
 body{
 	background-color: rgba(0,0,0,0.1) !important;
+	text-align: justify;
 }
 
 #top{
@@ -78,6 +79,11 @@ body{
 	color: white;
 	font-weight: bold;
 	padding-left: 50px;
+}
+
+#exam h3
+{
+	margin-top: 30px;
 }
 
 .card

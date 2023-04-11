@@ -34,8 +34,8 @@
         <div class="row">
           <div class="col-sm-3 ">
             <div class="card card-primary">
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="https://shop.taalct.co.za">
+                <img src="img/stationary.jpg" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Uniforms & Stationary</p>
               </a>
@@ -43,8 +43,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary"> 
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="https://shop.taalct.co.za">
+                <img src="img/book.jpg" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Order Books Online</p>
               </a>
@@ -52,8 +52,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary"> 
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="https://www.taalct.co.za/banking-details/">
+                <img src="img/banking.jpg" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Banking Details</p>
               </a>
@@ -61,8 +61,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary">
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="https://www.taalct.co.za/branches/">
+                <img src="img/contact.jpg" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Contact Details</p>
               </a>
@@ -75,8 +75,8 @@
         <div class="row">
           <div class="col-sm-3 ">
             <div class="card card-primary">
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="cambridgePathway">
+                <img src="img/cambridge.png" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Cambridge Pathway</p>
               </a>
@@ -84,8 +84,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary"> 
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="juneExams">
+                <img src="img/cambridge.png" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>June 2023 exam series</p>
               </a>
@@ -93,8 +93,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary"> 
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="cambridgePrimary">
+                <img src="img/cambridge.png" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Cambridge Primary</p>
               </a>
@@ -102,8 +102,8 @@
           </div>
           <div class="col-sm-3 ">
             <div class="card card-primary">
-              <a href="#">
-                <img src="img/150x80.png" class="img-responsive" style="width:100%" alt="Image">
+              <a href="cambridgeHigh">
+                <img src="img/cambridge.png" class="img-responsive" style="width:100%" alt="Image">
                 <hr >
                 <p>Cambridge Lower Secondary</p>
               </a>

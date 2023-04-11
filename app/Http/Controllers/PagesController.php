@@ -28,6 +28,16 @@ class PagesController extends Controller
             "id"=> $id
         ]);
     }
+
+    public function exams()
+    {
+        return view('exams');
+    }
+
+    public function cambridgePathway()
+    {
+        return view('cambridgePathway');
+    }
     
     public function cambridgeHigh()
     {
